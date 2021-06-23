@@ -1,7 +1,42 @@
-# System.out.print("Hello World!");
+## Hi! I'm Julia &#128521;
 
-Meu nome é Julia, tenho 21 anos, sou estudante de análise e desenvolvimento de sistemas na Unisinos e estou migrando da área de geologia do petróleo para desenvolvimento web. Atualmente sou desenvolvedora web full-stack júnior na Compliance Total, trabalhando com node.js e react.js. 
 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/-NodeJs-339933?logo=node.js&logoColor=FFFAFA&style=for-the-badge&logoWidth=20" /> <img src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=FFFAFA&style=for-the-badge&logoWidth=20" /> <img src="https://img.shields.io/badge/-MongoDb-47A248?logo=mongodb&logoColor=FFFAFA&style=for-the-badge&logoWidth=20" /> <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=FFFAFA&style=for-the-badge&logoWidth=20" /> <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=FFFAFA&style=for-the-badge&logoWidth=20"> <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=FFFAFA&style=for-the-badge&logoWidth=20" /> <img src="https://img.shields.io/badge/-Nodemon-76D04B?logo=nodemon&logoColor=FFFAFA&style=for-the-badge&logoWidth=20" /> <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=FFFAFA&style=for-the-badge&logoWidth=20">
+<a href="https://www.linkedin.com/in/julia-frohlich199/">
+  <img align="left" alt="Julia's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/juliasfrohlich">
+  <img align="left" alt="Julia's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/juliasfrohlich">
+  <img align="left" alt="Julia's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100000828226759">
+  <img align="left" alt="Julia's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
-<img src="https://miro.medium.com/max/400/0*VV3Nmxgv3KX4sLhr.gif" />
+<br/>
+<br/>
+
+
+- &#127922; I’m currently an Backend Developer on [Compliance Total](https://www.compliancetotal.com.br/).
+- 🌱 I’m currently learning more about Deno and Docker.
+- &#127891; I’m studying System's Development and Analysis at Unisinos.
+- &#128587; Pronouns: She/Her
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=FFFAFA&style=for-the-badge&logoWidth=20"></code>
+<code><img height="20" src="https://img.shields.io/badge/-NodeJs-339933?logo=node.js&logoColor=FFFAFA&style=for-the-badge&logoWidth=20"></code>
+<code><img height="20" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"></code>
+<code><img height="20" src="https://img.shields.io/badge/-MongoDb-47A248?logo=mongodb&logoColor=FFFAFA&style=for-the-badge&logoWidth=20"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=FFFAFA&style=for-the-badge&logoWidth=20"></code> 
+<code><img height="20" src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=FFFAFA&style=for-the-badge&logoWidth=20"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=FFFAFA&style=for-the-badge&logoWidth=20"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Nodemon-76D04B?logo=nodemon&logoColor=FFFAFA&style=for-the-badge&logoWidth=20"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=FFFAFA&style=for-the-badge&logoWidth=20"></code>  
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliasfrohlich&theme=light&hide_langs_below=1" />
+
+- Thanks for your attention. If u need some help, please contact me, will be a pleasure to share my knowledge. &#128420;
+- I can talk to you in portuguese, english or spanish(a little bit).
