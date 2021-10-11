@@ -18,7 +18,7 @@
 <br/>
 
 
-- &#127922; I’m currently an Fullstack Developer on [Compliance Total](https://www.compliancetotal.com.br/).
+- &#127922; I’m currently a Backend Developer on [DBServer](https://www.dbserver.com.br/).
 - 🌱 I’m currently learning more about Deno and Docker.
 - &#127891; I’m studying System's Development and Analysis at Unisinos.
 - &#128587; Pronouns: She/Her
