@@ -39,4 +39,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliasfrohlich&theme=light&hide_langs_below=1" />
 
 - Thanks for your attention. If u need some help, please contact me, will be a pleasure to share my knowledge. &#128420;
-- I can talk to you in portuguese, english or spanish(a little bit).
+- I can speak with you in portuguese, english or spanish(a little bit).
