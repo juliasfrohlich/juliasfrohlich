@@ -18,8 +18,8 @@
 <br/>
 
 
-- &#127922; I’m a Backend Developer on [DBServer](https://www.dbserver.com.br/).
-- 🌱 I’m currently learning more about Deno and Docker.
+- &#127922; I’m a Backend Developer on [SAP](https://www.sap.com/index.html).
+- 🌱 I’m currently learning more about Golang.
 - &#127891; I’m studying System's Development and Analysis at Unisinos.
 - &#128587; Pronouns: She/Her
 
