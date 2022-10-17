@@ -18,7 +18,7 @@
 <br/>
 
 
-- &#127922; I’m a Backend Developer on [SAP](https://www.sap.com/index.html).
+- &#127922; I’m a Backend Developer at [SAP](https://www.sap.com/index.html).
 - 🌱 I’m currently learning more about Golang.
 - &#127891; I’m studying System's Development and Analysis at Unisinos.
 - &#128587; Pronouns: She/Her
